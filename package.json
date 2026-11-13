@@ -19,9 +19,9 @@
     "start": "node build/cli.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "0.6.0",
+    "@modelcontextprotocol/sdk": "1.32.2",
     "dotenv": "^16.4.5",
-    "openai": "^4.73.1"
+    "openai": "^7.57.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.24",
